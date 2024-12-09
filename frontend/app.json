@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "NativeSound",
+    "slug": "NativeSound",
+    "scheme": "nativesound",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#5E94FB", // Set your preferred color here
+      "resizeMode": "contain",
+      "fadeDuration": 500 // Optional: smooth out transitions
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router"
+    ]
+  }
+}
