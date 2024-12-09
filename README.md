@@ -22,24 +22,6 @@ A real-time chat application built with **React Native**, designed to provide se
 - **Backend:** Java
 - **Database:** MySQL
 
-## 📂 Project Structure  
-```plaintext
-📦 NativeSound 
-├── 📁 app
-├── 📁 assets
-│   ├── 📁 annimations  
-│   ├── 📁 fonts  
-│   ├── 📁 images
-├── .gitignore
-├── app.json
-├── babel.config.js
-├── package-lock.json
-├── package.json  
-└── README.md  
-```
-
-
-
 ## 🖥️ Installation & Setup  
 1. Clone the repository:  
    ```bash
@@ -83,7 +65,7 @@ A real-time chat application built with **React Native**, designed to provide se
 5. Youtube short here: 
 <div align="center">
 <a  href="https://youtube.com/shorts/mEHvw9Qssk4?si=lvMY1IIHtAgTj1Lc" target="_blank">
-  <img src="assets/images/5.jpeg" alt="Youtube short" width="300">
+  <img src="frontend/assets/images/5.jpeg" alt="Youtube short" width="300">
 </a>
 </div>
 
