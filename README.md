@@ -1,8 +1,8 @@
 # 📱 React Native Chat App  
 
 <div align="center">
-   <img src="frontend/assets/images/1.jpg" alt="Chat App Screenshot 1" width="300">
-   <img src="frontend/assets/images/2.jpg" alt="Chat App Screenshot 2" width="300">
+   <img src="frontend/assets/images/gitgif(1).gif" alt="Chat App Screenshot 1" width="300">
+   <img src="frontend/assets/images/gitgif(2).gif" alt="Chat App Screenshot 2" width="300">
 </div>
 
 
